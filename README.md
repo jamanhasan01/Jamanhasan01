@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jamanhasan246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lHnY8VdXA74TyeEcMEUmizLt1pGz5dnJ/view](https://drive.google.com/file/d/1lHnY8VdXA74TyeEcMEUmizLt1pGz5dnJ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hwdnbtqDCEZYTFfL5T_aT52Eg91PdScL/view?usp=sharing](https://drive.google.com/file/d/1hwdnbtqDCEZYTFfL5T_aT52Eg91PdScL/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm funny & friendly**
 
