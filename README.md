@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaman Hasan</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Jaman Hasan</h1>
+<h3 align="left">A passionate MERN stack developer from Bangladesh</h3>
 
 Email Me 👉 ✉️ **jamanhasan246@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
