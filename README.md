@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jaman Hasan</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
+Email Me 👉 ✉️ **jamanhasan246@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 👨‍💻 All of my projects are available at [http://jamanhasan01.surge.sh/](http://jamanhasan01.surge.sh/)
+- 💬 Ask me about **React, tailwind, express, MongoDB**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ttsXJPIBKbrclLMmifNH5Rb6oGR-COug/view](https://drive.google.com/file/d/1ttsXJPIBKbrclLMmifNH5Rb6oGR-COug/view)
+- 📫 **How to reach me:** jamanhasan246@gmail.com
+- 😄 **Pronouns:** Jaman
+- ⚡ Fun fact **I think I'm funny & friendly**
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jamanhasan01) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jamanhasan01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamanhasan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamanhasan001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamanhasan246@gmail.com) 
