@@ -10,11 +10,7 @@ Email Me 👉 ✉️ **jamanhasan246@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** jamanhasan246@gmail.com
 - 😄 **Pronouns:** Jaman
 - ⚡ Fun fact **I think I'm funny & friendly**
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 ## 🌐 Socials:
