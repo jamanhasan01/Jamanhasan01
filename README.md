@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **jamanhasan246@gmail.com** For Collaboration/Project or An
 
 - 👨‍💻 All of my projects are available at [http://jamanhasan01.surge.sh/](http://jamanhasan01.surge.sh/)
 - 💬 Ask me about **React, tailwind, express, MongoDB**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RurlgkLW5A24hLKdZHFy5YbVG1XJTR4W/view?usp=sharing](https://drive.google.com/file/d/1PbW4hQJB-cP4HXLMQS2wCM4fR9PJ9789/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/11gsMvR1-ZtrkbMJEzokm2tylFBJVTcq5/view?usp=sharing
 - 📫 **How to reach me:** jamanhasan246@gmail.com
 - 😄 **Pronouns:** Jaman
 - ⚡ Fun fact **I think I'm funny & friendly**
